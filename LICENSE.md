@@ -1,0 +1,1 @@
+o C Hamano (濱野 純 Hamano Jun[1]?) is a Japanese software engineer and hacker best known for being the maintainer of Git since 26 July 2005.[2][3] Linus Torvalds has said that one of his own biggest successes was recognizing how good a developer Hamano was on Git, and trusting him to maintain it.[4] He lives in California and works for Google.dddddddddfakldjfladfja
